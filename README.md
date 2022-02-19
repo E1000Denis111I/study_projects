@@ -1,6 +1,6 @@
 # study_projects
 
 Учебные проекты Яндекс.Практикум:
-* [General info](#general-info)
+* [General info](#ab)
 * [Technologies](#technologies)
 * [Setup](#setup)
