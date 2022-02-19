@@ -1,2 +1,6 @@
 # study_projects
-учебные проекты Яндекс.Практикум
+
+Учебные проекты Яндекс.Практикум:
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
